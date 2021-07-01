@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.446" height="52.724" viewBox="0 0 46.446 52.724">
+  <g id="Group_36325" data-name="Group 36325" transform="translate(1.29 1.29)">
+    <path id="Path_39173" data-name="Path 39173" d="M627.843,1227.291a7.542,7.542,0,0,0-7.519-7.52H591.5a7.542,7.542,0,0,0-7.519,7.52v29.58h43.867Z" transform="translate(-583.976 -1219.771)" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="2.579"/>
+    <path id="Path_39174" data-name="Path 39174" d="M583.976,1281.1v5.828a7.541,7.541,0,0,0,7.519,7.519h28.828a7.541,7.541,0,0,0,7.519-7.519V1281.1Z" transform="translate(-583.976 -1244.004)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.977"/>
+    <path id="Path_39175" data-name="Path 39175" d="M583.976,1281.1v5.828a7.541,7.541,0,0,0,7.519,7.519h28.828a7.541,7.541,0,0,0,7.519-7.519V1281.1Z" transform="translate(-583.976 -1244.004)" fill="#231f20" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.256"/>
+    <g id="Group_36323" data-name="Group 36323" transform="translate(8.623 40.155)">
+      <g id="Group_36322" data-name="Group 36322">
+        <text id="USB_x2" data-name="USB x2" transform="translate(12 6)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI"><tspan x="-10.722" y="0">USB x2</tspan></text>
+      </g>
+    </g>
+    <g id="Group_36324" data-name="Group 36324" transform="translate(6.352 10.641)">
+      <circle id="Ellipse_155" data-name="Ellipse 155" cx="2.346" cy="2.346" r="2.346" transform="translate(0 5.658)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <circle id="Ellipse_156" data-name="Ellipse 156" cx="2.346" cy="2.346" r="2.346" transform="translate(16.49)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <line id="Line_13" data-name="Line 13" x2="26.471" transform="translate(4.692 8.004)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <path id="Path_39176" data-name="Path 39176" d="M638.127,1246.053l2.38,1.374,2.38,1.374-2.38,1.374-2.38,1.374" transform="translate(-611.723 -1240.796)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <rect id="Rectangle_4679" data-name="Rectangle 4679" width="4.087" height="4.087" transform="translate(20.268 11.73)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <path id="Path_39177" data-name="Path 39177" d="M616.077,1241.014h-2.91l-5.769,5.769" transform="translate(-599.582 -1238.805)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <path id="Path_39178" data-name="Path 39178" d="M622.315,1256.364H619.4l-5.769-5.769" transform="translate(-602.046 -1242.591)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+    </g>
+  </g>
+</svg>

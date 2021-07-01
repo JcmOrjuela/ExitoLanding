@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.446" height="52.724" viewBox="0 0 46.446 52.724">
+  <g id="Group_36321" data-name="Group 36321" transform="translate(1.29 1.29)">
+    <path id="Path_39168" data-name="Path 39168" d="M539.926,1227.291a7.542,7.542,0,0,0-7.519-7.52H503.578a7.542,7.542,0,0,0-7.519,7.52v29.58h43.867Z" transform="translate(-496.059 -1219.771)" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="2.579"/>
+    <path id="Path_39169" data-name="Path 39169" d="M496.059,1281.1v5.828a7.541,7.541,0,0,0,7.519,7.519h28.828a7.541,7.541,0,0,0,7.519-7.519V1281.1Z" transform="translate(-496.059 -1244.004)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.977"/>
+    <path id="Path_39170" data-name="Path 39170" d="M496.059,1281.1v5.828a7.541,7.541,0,0,0,7.519,7.519h28.828a7.541,7.541,0,0,0,7.519-7.519V1281.1Z" transform="translate(-496.059 -1244.004)" fill="#231f20"/>
+    <g id="Group_36317" data-name="Group 36317" transform="translate(6.204 40.155)">
+      <g id="Group_36316" data-name="Group 36316">
+        <text id="HDMI_x3" data-name="HDMI x3" transform="translate(14 6)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI"><tspan x="-13.465" y="0">HDMI x3</tspan></text>
+      </g>
+    </g>
+    <g id="Group_36320" data-name="Group 36320" transform="translate(7.302 8.579)">
+      <path id="Path_39171" data-name="Path 39171" d="M508.131,1252.409v-16.97a1.49,1.49,0,0,1,1.486-1.486h26.012a1.49,1.49,0,0,1,1.486,1.486v16.97a1.491,1.491,0,0,1-1.486,1.486H509.617A1.491,1.491,0,0,1,508.131,1252.409Z" transform="translate(-508.131 -1233.953)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+      <g id="Group_36319" data-name="Group 36319" transform="translate(3.534 4.985)">
+        <path id="Path_39172" data-name="Path 39172" d="M535.548,1247.163l-2.2-2.374v-1.471a1.127,1.127,0,0,0-1.124-1.124H517.636a1.127,1.127,0,0,0-1.124,1.124v1.471l-2.156,2.326.012.005a1.117,1.117,0,0,0-.393.846v3.077a1.127,1.127,0,0,0,1.124,1.123h19.668a1.127,1.127,0,0,0,1.124-1.123v-3.077A1.119,1.119,0,0,0,535.548,1247.163Z" transform="translate(-513.974 -1242.194)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+        <line id="Line_6" data-name="Line 6" x2="15.777" transform="translate(3.31 7.135)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+        <g id="Group_36318" data-name="Group 36318" transform="translate(5.89 5.199)">
+          <line id="Line_7" data-name="Line 7" y1="1.935" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+          <line id="Line_8" data-name="Line 8" y1="1.935" transform="translate(2.123)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+          <line id="Line_9" data-name="Line 9" y1="1.935" transform="translate(4.246)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+          <line id="Line_10" data-name="Line 10" y1="1.935" transform="translate(6.37)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+          <line id="Line_11" data-name="Line 11" y1="1.935" transform="translate(8.493)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+          <line id="Line_12" data-name="Line 12" y1="1.935" transform="translate(10.616)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.977"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

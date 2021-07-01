@@ -1,0 +1,178 @@
+:root {
+    --color_primary: #FFE800;
+    --color_secondary: #24CBD5;
+    --color_secondary: #24CBD5;
+}
+
+body {
+    color: #000000;
+    background-color: #ffffff;
+    padding: 1em;
+}
+
+center {
+    padding: 0.4rem 1.5rem 0 1.5rem;
+}
+
+.wrapper {
+    padding: 1em;
+}
+
+.top-bar {
+    background-color: var(--color_primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5em;
+}
+
+.poster {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 00px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.poster img {
+    width: 100%;
+}
+
+.poster-text {
+    position: absolute;
+    bottom: 1em;
+    left: 3em;
+    color: white;
+    text-align: left;
+}
+
+.poster-text h1 {
+    font-size: 48px;
+}
+
+@media (max-width:992px) {
+    .poster-text h1 {
+        font-size: 20px;
+    }
+}
+
+.buy {
+    background-color: black;
+    padding: 1em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.buy p {
+    padding: 0;
+    margin: 0%;
+}
+
+.buy>* {
+    padding-bottom: 0.3rem;
+}
+
+.fintv {
+    background: linear-gradient(90deg, #24CBD5, #2680D4);
+    padding: 2.5em 33em 2.5em 33em;
+    color: white;
+    text-align: center
+}
+
+.fintv img {
+    margin: 1rem;
+    width: 90%;
+}
+
+.container-yellow {
+    display: flex;
+    justify-content: center;
+    background-color: var(--color_primary);
+    border-radius: 5em;
+}
+
+@media(max-width:992px) {
+    .fintv {
+        padding: 10vw;
+    }
+}
+
+.card {
+    border: solid 1px var(--color_secondary);
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.card-header {
+    display: flex;
+    border-width: 100%;
+    justify-content: space-between;
+}
+
+.price {
+    left: 3em;
+    top: 0.1em;
+}
+
+.relative {
+    position: relative;
+}
+
+.relative>div {
+    position: absolute;
+    bottom: -3px;
+}
+
+.index {
+    width: 30px;
+    height: 30px;
+}
+
+.r-right {
+    right: -0.7em;
+    top: 12rem;
+}
+
+.price-payment {
+    top: 2.3rem;
+    font-size: 15px;
+}
+
+.price img {
+    position: absolute;
+    top: -0.5em;
+    right: -6em;
+}
+
+.card-description {
+    text-align: center;
+}
+
+.card-description .sale-price {
+    color: red;
+}
+
+.card-terms {
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+
+.pata-samsumg {
+    border: 1px solid gray;
+    padding: 5em;
+    text-align: center;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+article {
+    margin: 3rem;
+}

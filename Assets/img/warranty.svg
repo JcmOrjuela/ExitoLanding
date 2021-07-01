@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.67" height="60.262" viewBox="0 0 44.67 60.262">
+  <g id="Group_36328" data-name="Group 36328" transform="translate(0 9.121)">
+    <path id="Path_39179" data-name="Path 39179" d="M713.441,1228.188a7.418,7.418,0,0,0-7.4-7.4H677.69a7.418,7.418,0,0,0-7.4,7.4v29.839h43.147Z" transform="translate(-669.532 -1220.031)" fill="#fff"/>
+    <path id="Path_39180" data-name="Path 39180" d="M713.7,1258.292h-44.67v-30.6a8.167,8.167,0,0,1,8.158-8.157h28.355a8.167,8.167,0,0,1,8.158,8.157Zm-43.147-1.524h41.624v-29.077a6.641,6.641,0,0,0-6.634-6.634H677.192a6.641,6.641,0,0,0-6.635,6.634Z" transform="translate(-669.034 -1219.534)" fill="#231f20"/>
+    <text id="año" transform="translate(16.433 34.425)" fill="#231f20" font-size="6" font-family="SegoeUI, Segoe UI" letter-spacing="-0.02em"><tspan x="0" y="0">año</tspan></text>
+    <path id="Path_39181" data-name="Path 39181" d="M705.547,1295H677.192a8.167,8.167,0,0,1-8.158-8.158v-5.75H713.7v5.75A8.167,8.167,0,0,1,705.547,1295Zm-34.989-12.384v4.226a6.642,6.642,0,0,0,6.635,6.635h28.355a6.642,6.642,0,0,0,6.634-6.635v-4.226Z" transform="translate(-669.034 -1243.854)" fill="#231f20"/>
+    <path id="Path_39182" data-name="Path 39182" d="M670.294,1281.107v5.739a7.418,7.418,0,0,0,7.4,7.4h28.355a7.418,7.418,0,0,0,7.4-7.4v-5.739Z" transform="translate(-669.532 -1243.862)" fill="#231f20"/>
+    <text id="GARANTÍA" transform="translate(19.77 44.503)" fill="#fff" font-size="7" font-family="SegoeUI, Segoe UI" letter-spacing="-0.02em"><tspan x="-16.161" y="0">GARANTÍA</tspan></text>
+    <g id="Group_36327" data-name="Group 36327" transform="translate(15.683 0.879)">
+      <g id="Group_36326" data-name="Group 36326">
+        <text id="_1" data-name="1" transform="translate(6 25)" fill="#231f20" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="-8.625" y="0">1</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
